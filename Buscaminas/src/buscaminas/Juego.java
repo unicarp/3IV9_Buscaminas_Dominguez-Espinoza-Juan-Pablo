@@ -4,7 +4,8 @@
  * and open the template in the editor.
  */
 package buscaminas;
-
+//aun no lo termino profe
+//https://github.com/unicarp/3IV9_Buscaminas_Dominguez-Espinoza-Juan-Pablo.git
 /**
  *
  * @author Juan Pablo
